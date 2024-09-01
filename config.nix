@@ -14,8 +14,6 @@
         lazygit
         kubectl
         kubectx
-        podman
-        buildah
         k9s
         fluxcd
       ];
